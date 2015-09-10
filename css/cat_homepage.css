@@ -1,0 +1,77 @@
+body {
+  background-color: #FFFFCC;
+}
+#topbar {
+  background-color:#005266;
+  height:45px;
+  border-radius: 5px;
+  /*position: relative;*/
+  padding-top: 20px;
+}
+li {
+  color: #fff;
+  font-family: sans-serif;
+  display: inline;
+
+  /*background-color: #f00;*/
+  /*margin-top: 30px;*/
+  margin: 15px;
+  /*border: 1px solid #000;*/
+  /*padding-top: 30px;*/
+}
+#second {
+  background-image: url("http://cuteimages.net/data/2015/4/my-little-fluffy-lion-name-cuteimages.net.jpg");
+  height: 450px;
+  width: 70%;
+  border-radius: 5px;
+  align-items: center;
+  background-repeat: no-repeat;
+}
+h1{
+  padding-top: 150px;
+  color:#f6f;
+  font-weight: bolder;
+  text-align: center;
+  /*font-family: sans-serif;*/
+}
+.psecond{
+  padding-bottom:100px;
+  padding-left: 250px;
+  padding-right:250px;
+  color: #f6f;
+  font-style: italic;
+  text-align: center;
+  font-family: sans-serif;
+}
+table {
+  margin-top: 20px;
+  border-radius: 5px;
+  padding: 45px;
+  text-align: center;
+  /*margin:45px;*/
+  width: 100%;
+  background-color: #FCE0B3;
+}
+.bigtext {
+  font-size: 30px;
+  font-weight: bolder;
+}
+.littletext {
+  font-size: 15px;
+
+}
+td{
+  border: 1px solid #000;
+}
+#about{
+  background-color: #FFD1D1;
+  color: #CC9900;
+  font-family:fantasy;
+  border-radius: 5px;
+  font-weight:600;
+  padding: 5px;
+  margin-top: 20px;
+  text-align: justify;
+  padding-left: 15px;
+  padding-right: 15px;
+}

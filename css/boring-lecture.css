@@ -1,0 +1,30 @@
+body{
+  background-image:url("http://dreamatico.com/data_images/water/water-4.jpg");
+  /*background-image: script("water.jpg");*/
+}
+h1 {
+  text-align: center;
+  color: Brown;
+  font-family: serif;
+}
+.intro{
+  color:red;
+  font-style:italic;
+}
+h2 {
+  font-family: sans-serif;
+  background-color: #996600;
+  color:blue;
+  text-align: center;
+}
+p.intro{
+  font-size: 1.25em;
+  background-color: #CCB280;
+  border: 1px solid #000000;
+}
+
+img.intro{
+  height:100px;
+  width:100px;
+  border: 2px dotted blue;
+}

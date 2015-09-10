@@ -1,0 +1,23 @@
+h1{
+  font-family: serif;
+  color: green;
+  text-align: left;
+}
+p{
+  background-color: #F30;
+}
+li{
+  color:#06F;
+  /*line-height: 3em;*/
+}
+.flashy {
+  color:red;
+  font-style: italic;
+}
+
+.best{
+  color:#0C0;
+  font-size: 25px;
+  /*text-align: center;*/
+  /*line-height: .75em;*/
+}

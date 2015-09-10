@@ -1,0 +1,12 @@
+h1 {
+ color:#f6f;
+ text-align: center;
+ font-family: sans-serif;
+}
+
+p {
+  font-size: 1.5em;
+  font-weight: bolder;
+  background-color: #66FF66;
+  line-height: 1.25em;
+}
